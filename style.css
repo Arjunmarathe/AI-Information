@@ -1,0 +1,9 @@
+body{
+    text-align:center;
+    background:linear-gradient(cyan,violet);
+    background-repeat:no-repeat;
+
+}
+li{
+    list-style-type: none;
+}
